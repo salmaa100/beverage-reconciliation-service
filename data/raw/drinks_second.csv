@@ -1,0 +1,301 @@
+Drink_Name,Brand,Category,Calories,Sugar_g,Caffeine_mg
+Monster Tea,Monster,Tea,214,50.8,43
+Sprite Tea,Sprite,Tea,124,53.3,121
+Coca Cola Coffee,Coca Cola,Coffee,242,49.0,0
+Nestle Soda,Nestle,Soda,227,17.4,0
+Tropicana soda,Tropicana,Soda,53,49.0,0
+Lipton Tea,Lipton,Tea,127,41.5,0
+Schweppes Tea,Schweppes,Tea,242,58.2,38
+Schweppes water,Schweppes,Water,180,51.5,76
+Sprite Water,Sprite,Water,209,39.1,0
+Lipton Water,Lipton,Water,63,2.9,127
+Schweppes Water,Schweppes,Water,94,57.0,0
+Sprite Energy Drink,Sprite,Energy Drink,130,11.9,0
+Coca Cola Juice,Coca Cola,Juice,20,45.2,43
+Red Bull Tea,Red Bull,Tea,55,45.1,0
+Coca Cola Juice,Coca Cola,Juice,235,52.4,122
+Schweppes Energy Drink,Schweppes,Energy Drink,49,3.1,0
+Monster energy drink,Monster,Energy Drink,160,24.0,0
+Red Bull juice,Red Bull,Juice,118,36.6,79
+Schweppes Energy Drink,Schweppes,Energy Drink,56,9.1,0
+Nestle energy drink,Nestle,Energy Drink,172,20.7,34
+Fanta soda,Fanta,Soda,208,56.5,0
+Sprite Energy Drink,Sprite,Energy Drink,90,44.9,146
+Sprite juice,Sprite,Juice,100,56.7,0
+Tropicana Juice,Tropicana,Juice,16,18.7,131
+Pepsi Water,Pepsi,Water,189,1.4,0
+Fanta juice,Fanta,Juice,90,31.0,0
+Nestle Soda,Nestle,Soda,96,51.0,98
+Nestle Juice,Nestle,Juice,208,32.9,0
+Sprite Water,Sprite,Water,159,4.8,0
+Sprite energy drink,Sprite,Energy Drink,180,12.3,0
+Red Bull Soda,Red Bull,Soda,186,11.3,108
+Fanta Coffee,Fanta,Coffee,32,12.3,0
+Lipton coffee,Lipton,Coffee,89,12.9,60
+Sprite juice,Sprite,Juice,153,13.3,0
+Fanta Soda,Fanta,Soda,190,14.8,0
+Nestle Coffee,Nestle,Coffee,52,1.4,25
+Fanta Tea,Fanta,Tea,112,16.6,14
+Red Bull Water,Red Bull,Water,165,49.7,71
+Pepsi Water,Pepsi,Water,63,4.3,23
+Pepsi energy drink,Pepsi,Energy Drink,241,18.5,68
+Red Bull energy drink,Red Bull,Energy Drink,97,12.3,105
+Fanta energy drink,Fanta,Energy Drink,27,21.4,0
+Nestle Tea,Nestle,Tea,79,58.5,134
+Schweppes Energy Drink,Schweppes,Energy Drink,138,0.7,41
+Nestle Juice,Nestle,Juice,118,43.4,15
+Schweppes Tea,Schweppes,Tea,38,26.3,143
+Coca Cola Juice,Coca Cola,Juice,183,46.5,0
+Tropicana Energy Drink,Tropicana,Energy Drink,100,30.5,0
+Lipton tea,Lipton,Tea,109,10.4,81
+Pepsi coffee,Pepsi,Coffee,248,42.0,49
+Monster tea,Monster,Tea,145,47.3,54
+Sprite Water,Sprite,Water,79,57.9,56
+Monster water,Monster,Water,110,9.6,0
+Red Bull Water,Red Bull,Water,203,52.7,63
+Coca Cola Tea,Coca Cola,Tea,135,18.4,0
+Coca Cola Energy Drink,Coca Cola,Energy Drink,101,11.0,67
+Red Bull juice,Red Bull,Juice,46,9.1,0
+Pepsi Juice,Pepsi,Juice,147,48.7,105
+Fanta Water,Fanta,Water,23,14.8,74
+Lipton coffee,Lipton,Coffee,90,14.2,0
+Tropicana Tea,Tropicana,Tea,208,56.1,0
+Fanta Tea,Fanta,Tea,3,30.1,131
+Red Bull juice,Red Bull,Juice,79,27.7,0
+Sprite soda,Sprite,Soda,97,56.3,0
+Schweppes coffee,Schweppes,Coffee,154,0.0,0
+Fanta Coffee,Fanta,Coffee,121,52.7,52
+Coca Cola Soda,Coca Cola,Soda,78,48.4,114
+Red Bull energy drink,Red Bull,Energy Drink,231,9.5,116
+Sprite Soda,Sprite,Soda,53,21.6,85
+Fanta coffee,Fanta,Coffee,48,44.8,31
+Monster coffee,Monster,Coffee,82,51.6,0
+Schweppes soda,Schweppes,Soda,220,25.5,0
+Sprite Energy Drink,Sprite,Energy Drink,63,38.1,49
+Lipton tea,Lipton,Tea,214,58.4,132
+Tropicana soda,Tropicana,Soda,20,19.5,0
+Sprite Energy Drink,Sprite,Energy Drink,220,54.2,100
+Sprite water,Sprite,Water,232,49.1,0
+Lipton Coffee,Lipton,Coffee,171,52.4,105
+Nestle Coffee,Nestle,Coffee,82,45.8,92
+Schweppes Water,Schweppes,Water,7,20.2,83
+Red Bull Soda,Red Bull,Soda,129,15.8,0
+Fanta Tea,Fanta,Tea,237,19.0,75
+Nestle Coffee,Nestle,Coffee,148,11.8,0
+Schweppes tea,Schweppes,Tea,148,52.4,0
+Schweppes soda,Schweppes,Soda,198,47.5,32
+Red Bull Tea,Red Bull,Tea,37,13.9,145
+Lipton Tea,Lipton,Tea,142,34.0,135
+Lipton water,Lipton,Water,217,17.8,68
+Tropicana Energy Drink,Tropicana,Energy Drink,92,2.3,42
+Pepsi Juice,Pepsi,Juice,58,13.4,0
+Red Bull soda,Red Bull,Soda,250,29.9,0
+Pepsi Coffee,Pepsi,Coffee,49,51.0,0
+Pepsi coffee,Pepsi,Coffee,110,50.1,77
+Monster Juice,Monster,Juice,86,26.7,139
+Coca Cola juice,Coca Cola,Juice,158,21.4,0
+Monster soda,Monster,Soda,129,41.6,29
+Monster Soda,Monster,Soda,199,6.3,10
+Nestle Tea,Nestle,Tea,8,14.8,147
+Tropicana juice,Tropicana,Juice,212,45.5,0
+Tropicana Coffee,Tropicana,Coffee,7,14.6,18
+Nestle Juice,Nestle,Juice,126,23.6,0
+Red Bull Coffee,Red Bull,Coffee,149,19.3,0
+Pepsi energy drink,Pepsi,Energy Drink,62,1.1,0
+Monster Coffee,Monster,Coffee,56,20.9,0
+Monster Soda,Monster,Soda,75,46.5,0
+Tropicana tea,Tropicana,Tea,9,12.3,118
+Pepsi water,Pepsi,Water,143,32.3,99
+Monster Tea,Monster,Tea,101,0.4,0
+Sprite Coffee,Sprite,Coffee,233,33.3,0
+Fanta Tea,Fanta,Tea,202,47.3,32
+Pepsi Energy Drink,Pepsi,Energy Drink,76,58.5,0
+Tropicana water,Tropicana,Water,108,12.9,145
+Fanta Juice,Fanta,Juice,186,42.2,0
+Red Bull Juice,Red Bull,Juice,36,7.4,0
+Nestle Coffee,Nestle,Coffee,72,36.6,0
+Pepsi energy drink,Pepsi,Energy Drink,227,35.7,108
+Schweppes Soda,Schweppes,Soda,132,12.9,90
+Tropicana tea,Tropicana,Tea,201,4.1,0
+Schweppes Energy Drink,Schweppes,Energy Drink,137,48.0,123
+Tropicana Juice,Tropicana,Juice,78,20.5,91
+Nestle Water,Nestle,Water,34,59.5,33
+Sprite Soda,Sprite,Soda,24,59.8,0
+Monster Water,Monster,Water,206,16.8,77
+Schweppes Water,Schweppes,Water,138,5.4,0
+Monster Energy Drink,Monster,Energy Drink,134,23.5,47
+Sprite soda,Sprite,Soda,33,5.2,37
+Lipton Soda,Lipton,Soda,59,6.1,42
+Lipton Soda,Lipton,Soda,70,2.4,0
+Sprite Water,Sprite,Water,184,33.5,0
+Monster Soda,Monster,Soda,70,25.3,0
+Monster Water,Monster,Water,21,52.2,115
+Red Bull Tea,Red Bull,Tea,99,10.7,16
+Pepsi Juice,Pepsi,Juice,49,42.7,106
+Nestle tea,Nestle,Tea,55,24.7,0
+Monster Coffee,Monster,Coffee,231,23.4,65
+Red Bull Water,Red Bull,Water,219,18.1,0
+Sprite Water,Sprite,Water,106,11.5,39
+Lipton Energy Drink,Lipton,Energy Drink,197,0.4,70
+Lipton Water,Lipton,Water,144,6.4,0
+Nestle Soda,Nestle,Soda,152,0.6,0
+Pepsi Soda,Pepsi,Soda,124,15.4,37
+Nestle juice,Nestle,Juice,191,54.7,115
+Tropicana Coffee,Tropicana,Coffee,6,2.2,0
+Fanta Energy Drink,Fanta,Energy Drink,187,49.7,0
+Sprite Water,Sprite,Water,202,30.1,0
+Lipton Energy Drink,Lipton,Energy Drink,37,8.5,0
+Sprite Juice,Sprite,Juice,127,11.5,13
+Lipton Tea,Lipton,Tea,114,44.9,130
+Fanta Coffee,Fanta,Coffee,61,14.1,71
+Monster energy drink,Monster,Energy Drink,134,13.1,53
+Nestle Soda,Nestle,Soda,13,25.6,0
+Coca Cola Energy Drink,Coca Cola,Energy Drink,189,6.6,0
+Monster Coffee,Monster,Coffee,143,40.6,0
+Schweppes tea,Schweppes,Tea,198,54.0,100
+Red Bull Tea,Red Bull,Tea,227,53.9,13
+Monster Water,Monster,Water,48,52.7,59
+Red Bull Soda,Red Bull,Soda,62,53.1,149
+Nestle Water,Nestle,Water,75,55.5,0
+Nestle Energy Drink,Nestle,Energy Drink,241,21.4,57
+Lipton juice,Lipton,Juice,108,20.9,0
+Schweppes energy drink,Schweppes,Energy Drink,81,30.1,0
+Sprite juice,Sprite,Juice,221,33.8,17
+Lipton soda,Lipton,Soda,55,44.7,0
+Red Bull Water,Red Bull,Water,158,56.5,0
+Monster Water,Monster,Water,222,11.4,0
+Tropicana energy drink,Tropicana,Energy Drink,71,34.5,0
+Red Bull energy drink,Red Bull,Energy Drink,120,1.7,0
+Coca Cola Energy Drink,Coca Cola,Energy Drink,62,16.4,0
+Coca Cola energy drink,Coca Cola,Energy Drink,24,40.1,0
+Coca Cola coffee,Coca Cola,Coffee,202,17.8,103
+Tropicana soda,Tropicana,Soda,148,36.9,0
+Monster energy drink,Monster,Energy Drink,13,47.2,0
+Sprite Coffee,Sprite,Coffee,130,16.6,37
+Pepsi coffee,Pepsi,Coffee,139,23.2,104
+Sprite Energy Drink,Sprite,Energy Drink,164,51.0,0
+Lipton Soda,Lipton,Soda,237,12.1,75
+Coca Cola Coffee,Coca Cola,Coffee,49,7.9,64
+Schweppes water,Schweppes,Water,114,54.0,0
+Coca Cola Coffee,Coca Cola,Coffee,136,4.3,0
+Red Bull Tea,Red Bull,Tea,7,43.1,68
+Sprite water,Sprite,Water,1,7.6,126
+Schweppes juice,Schweppes,Juice,222,13.8,0
+Monster Coffee,Monster,Coffee,23,19.2,84
+Nestle Juice,Nestle,Juice,227,53.2,0
+Sprite water,Sprite,Water,91,7.1,34
+Sprite Tea,Sprite,Tea,139,20.8,59
+Fanta Tea,Fanta,Tea,191,10.9,114
+Sprite Soda,Sprite,Soda,187,56.1,0
+Coca Cola Juice,Coca Cola,Juice,151,29.0,0
+Lipton Water,Lipton,Water,212,36.4,0
+Pepsi Tea,Pepsi,Tea,211,43.0,32
+Coca Cola Coffee,Coca Cola,Coffee,207,11.6,0
+Sprite Juice,Sprite,Juice,48,27.7,68
+Schweppes tea,Schweppes,Tea,138,6.0,11
+Pepsi tea,Pepsi,Tea,14,14.6,0
+Fanta Juice,Fanta,Juice,200,39.0,0
+Pepsi Energy Drink,Pepsi,Energy Drink,189,59.4,70
+Coca Cola soda,Coca Cola,Soda,226,21.0,0
+Red Bull Coffee,Red Bull,Coffee,149,36.7,0
+Nestle water,Nestle,Water,99,41.0,85
+Red Bull Energy Drink,Red Bull,Energy Drink,105,48.7,42
+Coca Cola coffee,Coca Cola,Coffee,208,17.6,145
+Lipton energy drink,Lipton,Energy Drink,35,58.9,63
+Fanta Water,Fanta,Water,172,35.0,47
+Monster energy drink,Monster,Energy Drink,11,10.5,53
+Red Bull Coffee,Red Bull,Coffee,106,38.7,0
+Lipton Juice,Lipton,Juice,187,50.5,0
+Monster Energy Drink,Monster,Energy Drink,6,12.8,0
+Tropicana Energy Drink,Tropicana,Energy Drink,241,40.1,57
+Nestle Juice,Nestle,Juice,234,18.6,91
+Sprite soda,Sprite,Soda,124,39.3,0
+Nestle water,Nestle,Water,23,52.8,0
+Sprite Coffee,Sprite,Coffee,144,52.5,27
+Pepsi Coffee,Pepsi,Coffee,234,56.9,0
+Nestle juice,Nestle,Juice,192,19.5,0
+Nestle Juice,Nestle,Juice,210,27.3,66
+Nestle Coffee,Nestle,Coffee,179,45.4,39
+Nestle Coffee,Nestle,Coffee,25,38.3,0
+Sprite Coffee,Sprite,Coffee,144,44.4,24
+Sprite Coffee,Sprite,Coffee,240,59.0,0
+Coca Cola coffee,Coca Cola,Coffee,45,58.2,0
+Coca Cola coffee,Coca Cola,Coffee,126,3.0,0
+Sprite juice,Sprite,Juice,155,13.1,0
+Lipton tea,Lipton,Tea,125,41.6,13
+Monster juice,Monster,Juice,103,31.4,0
+Fanta coffee,Fanta,Coffee,132,56.8,135
+Schweppes Coffee,Schweppes,Coffee,66,46.9,86
+Nestle energy drink,Nestle,Energy Drink,83,45.9,119
+Coca Cola Energy Drink,Coca Cola,Energy Drink,143,5.4,0
+Lipton Juice,Lipton,Juice,63,5.7,109
+Schweppes Energy Drink,Schweppes,Energy Drink,53,32.0,48
+Monster Energy Drink,Monster,Energy Drink,166,22.9,0
+Nestle Juice,Nestle,Juice,242,9.2,0
+Sprite Energy Drink,Sprite,Energy Drink,5,30.1,0
+Monster water,Monster,Water,248,7.7,0
+Pepsi Coffee,Pepsi,Coffee,105,26.9,99
+Red Bull Soda,Red Bull,Soda,220,45.4,0
+Tropicana juice,Tropicana,Juice,15,11.1,15
+Red Bull Soda,Red Bull,Soda,212,10.4,83
+Schweppes tea,Schweppes,Tea,137,40.1,99
+Nestle Tea,Nestle,Tea,20,56.2,0
+Pepsi Coffee,Pepsi,Coffee,99,41.9,0
+Pepsi soda,Pepsi,Soda,229,39.0,0
+Coca Cola Soda,Coca Cola,Soda,129,43.5,0
+Tropicana Soda,Tropicana,Soda,143,26.8,79
+Sprite juice,Sprite,Juice,213,46.0,138
+Nestle tea,Nestle,Tea,239,54.0,0
+Lipton soda,Lipton,Soda,201,1.8,0
+Fanta Coffee,Fanta,Coffee,2,33.9,0
+Lipton juice,Lipton,Juice,163,57.2,83
+Sprite Tea,Sprite,Tea,188,56.6,72
+Red Bull juice,Red Bull,Juice,77,37.3,0
+Fanta energy drink,Fanta,Energy Drink,1,10.6,106
+Nestle water,Nestle,Water,24,39.4,27
+Red Bull Energy Drink,Red Bull,Energy Drink,45,55.1,131
+Fanta soda,Fanta,Soda,167,36.2,0
+Lipton Tea,Lipton,Tea,250,34.7,0
+Tropicana water,Tropicana,Water,105,3.1,54
+Monster Tea,Monster,Tea,144,32.5,0
+Monster water,Monster,Water,148,7.3,88
+Sprite Water,Sprite,Water,194,21.4,0
+Nestle Tea,Nestle,Tea,192,19.8,0
+Schweppes Juice,Schweppes,Juice,149,37.3,77
+Lipton Tea,Lipton,Tea,6,18.8,0
+Fanta Tea,Fanta,Tea,55,46.0,68
+Fanta Energy Drink,Fanta,Energy Drink,200,34.4,0
+Sprite Coffee,Sprite,Coffee,135,58.2,0
+Lipton Juice,Lipton,Juice,95,8.2,99
+Sprite Juice,Sprite,Juice,47,56.8,0
+Red Bull juice,Red Bull,Juice,208,12.3,135
+Tropicana Juice,Tropicana,Juice,18,12.9,0
+Monster Soda,Monster,Soda,23,17.0,70
+Sprite Tea,Sprite,Tea,101,47.2,113
+Monster water,Monster,Water,69,2.4,35
+Red Bull Juice,Red Bull,Juice,172,7.3,57
+Nestle Soda,Nestle,Soda,0,47.6,97
+Monster Juice,Monster,Juice,98,22.0,0
+Sprite Coffee,Sprite,Coffee,12,2.0,0
+Red Bull Energy Drink,Red Bull,Energy Drink,149,58.0,0
+Tropicana Tea,Tropicana,Tea,157,27.2,0
+Tropicana Water,Tropicana,Water,225,36.0,0
+Pepsi Soda,Pepsi,Soda,216,19.9,12
+Tropicana Soda,Tropicana,Soda,69,24.2,79
+Pepsi Water,Pepsi,Water,110,17.4,0
+Schweppes juice,Schweppes,Juice,217,17.3,0
+Pepsi water,Pepsi,Water,30,15.9,92
+Sprite juice,Sprite,Juice,211,47.4,0
+Schweppes energy drink,Schweppes,Energy Drink,48,33.8,0
+Red Bull Coffee,Red Bull,Coffee,17,21.9,0
+Pepsi Juice,Pepsi,Juice,210,35.4,12
+Red Bull Coffee,Red Bull,Coffee,15,10.6,26
+Schweppes Tea,Schweppes,Tea,173,34.9,0
+Lipton Water,Lipton,Water,203,24.6,143
+Monster Soda,Monster,Soda,133,49.5,116
+Lipton Coffee,Lipton,Coffee,73,31.1,0
+Monster Juice,Monster,Juice,152,53.6,0
+Monster juice,Monster,Juice,54,50.3,17
+Coca Cola Soda,Coca Cola,Soda,6,19.3,29
+Tropicana coffee,Tropicana,Coffee,81,16.6,0
+Nestle tea,Nestle,Tea,167,32.7,0
